@@ -1,1 +1,2 @@
-c++实现的异质栈，使用数组，链表和多数组三种方式实现，并且可以选择应用使用何种栈的实现方式.
+C + + heterogeneous stack to achieve, the use of arrays, linked lists and most of the three groups to achieve, and can 
+choose to use what kind of stack implementation.
