@@ -1,1 +1,2 @@
-异质栈用链表实现的引用语义，还包含表达式求值和进制转换两个基本应用.
+Heterogeneous stack using linked list to achieve the reference semantics, but also contains expression evaluation and 
+conversion of two basic applications of the interface.
