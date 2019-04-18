@@ -196,7 +196,7 @@ void Map::move()
 	{
 		ch=getch();
 		gotoxy(21,21);
-		printf("³¡¾°ÇĞ»»ÖĞ£¬Çë°´»Ø³µ¼üÍË³öÓÎÏ·");
+		printf("åœºæ™¯åˆ‡æ¢ä¸­ï¼Œè¯·æŒ‰å›è½¦é”®é€€å‡ºæ¸¸æˆ");
 		if(ch==13) break;
 	}
 	
@@ -212,7 +212,7 @@ int main(int argc, char** argv)
 	
 	system("cls");
 	system("color f2");
-	cout<<"\t\t\t\tÌÒÔ´´å"<<endl;
+	cout<<"\t\t\t\tæ¡ƒæºæ‘"<<endl;
 	
 	map.show();
 	
