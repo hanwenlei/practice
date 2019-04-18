@@ -79,7 +79,7 @@ int main(int argc, char *argv[]) {
 	
 	system("cls");
 	system("color f2");
-	printf("\t\t\t\tÌÒÔ´´å\n");
+	printf("\t\t\t\tæ¡ƒæºæ‘\n");
 	
 	for(i=0;i<20;i++){
 		for(j=0;j<70;j++){
@@ -141,7 +141,7 @@ int main(int argc, char *argv[]) {
 	while(x==69){
 		ch=getch();
 		gotoxy(21,21);
-		printf("³¡¾°ÇĞ»»ÖĞ£¬Çë°´¿Õ¸ñ¼üÍË³öÓÎÏ·");
+		printf("åœºæ™¯åˆ‡æ¢ä¸­ï¼Œè¯·æŒ‰ç©ºæ ¼é”®é€€å‡ºæ¸¸æˆ");
 		if(ch==' ') break;
 	}
 	
